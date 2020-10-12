@@ -14,8 +14,8 @@ import java.util.List;
 
 public class TestVod {
     public static void main(String[] args) throws ClientException {
-        String accessKeyId = "LTAI4GJZtrM3VFSQzECB6ecL";
-        String accessKeySecret = "Ms3HS2SK5hg6LkKfF75FsMZZt748No";
+        String accessKeyId = "your keyid";
+        String accessKeySecret = "your secret";
         String title = "8 - What If I Want to Move Faster -upload by sdk";      //上传到阿里云上的文件名称
         String fileName = "F:\\王宇超\\学习\\Git\\资料\\项目资料\\1-阿里云上传测试视频\\6 - What If I Want to Move Faster.mp4";   // 本地文件的目录和名称
         // 上传视频的方法
