@@ -12,8 +12,8 @@
         * 准备工作：创建操作阿里云OSS许可证(阿里云颁发的id和密钥)  
             * Bucket管理-Access Key- 继续使用AccessKey-创建AccessKey 发送短信直接创建  
             阿里云Oss 
-            AccessKey ID	   		 LTAI4GJZtrM3VFSQzECB6ecL
-            AccessKey Secret    	Ms3HS2SK5hg6LkKfF75FsMZZt748No
+            AccessKey ID	   		 
+            AccessKey Secret    	
                   
 2. 添加课程分类功能  
     (1). 使用EasyExcel读取excel内容添加数据  
